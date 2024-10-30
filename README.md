@@ -7,7 +7,7 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python, Jupyter Notebook</b>
+- <b>Python, Jupyter Notebook, Excel and Microsoft Powerpoint</b>
 
 <h2>Environments Used </h2>
 
