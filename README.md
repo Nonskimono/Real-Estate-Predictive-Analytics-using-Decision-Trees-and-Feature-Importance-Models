@@ -44,3 +44,8 @@ https://imgur.com/kEWMtRN
 
 <h2>Thank you so much!:</h2>
 <img src="https://imgur.com/4J4eNK8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Results and Achievements:</h2>
+A) Developed and implemented a Decision Tree regression model that accurately predicted house prices, achieving an accuracy rate of 74.09%, effectively informing Brentford Real Estate’s pricing strategies.
+B) Enhanced the decision-making process by identifying key features affecting house prices, which significantly improved stakeholder understanding and confidence in the pricing framework.
+C) Established a robust data preparation and analysis framework that streamlined the evaluation of residential properties, ultimately leading to better-targeted marketing strategies and improved buyer engagement.
