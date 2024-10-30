@@ -49,3 +49,5 @@ https://imgur.com/kEWMtRN
 A) Developed and implemented a Decision Tree regression model that accurately predicted house prices, achieving an accuracy rate of 74.09%, effectively informing Brentford Real Estate’s pricing strategies.
 B) Enhanced the decision-making process by identifying key features affecting house prices, which significantly improved stakeholder understanding and confidence in the pricing framework.
 C) Established a robust data preparation and analysis framework that streamlined the evaluation of residential properties, ultimately leading to better-targeted marketing strategies and improved buyer engagement.
+
+<h2>Note: A more detailed python code and project analysis would be in the ipynb file and pdf documentation file. Blessings!</h2>
